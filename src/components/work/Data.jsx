@@ -4,6 +4,7 @@ import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
 import Work6 from "../../assets/work6.jpg";
+import Work7 from "../../assets/work7.jpg";
 
 export const projectsData = [
   {
@@ -42,6 +43,16 @@ export const projectsData = [
     source:
       "https://xd.adobe.com/view/f13243f0-46c5-4e64-987b-b859e3f3b71b-a461/?fullscreen",
   },
+
+  {
+    id: 7,
+    image: Work7,
+    title: "IoT Smart Home",
+    category: "Web",
+    action: "View Source Code",
+    source: "https://github.com/charlotteraz/Smart-Home",
+  },
+
   {
     id: 5,
     image: Work5,
