@@ -5,6 +5,7 @@ import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
 import Work6 from "../../assets/work6.jpg";
 import Work7 from "../../assets/work7.jpg";
+import Work8 from "../../assets/work8.jpg";
 
 export const projectsData = [
   {
@@ -28,11 +29,20 @@ export const projectsData = [
   {
     id: 3,
     image: Work3,
-    title: "Street wear e-commerce idea",
+    title: "Streetwear E-Commerce Idea",
     category: "Design",
     action: "View",
     source:
       "https://dribbble.com/shots/20312969-Fashture-Street-wear-MockUp?utm_source=Clipboard_Shot&utm_campaign=charlotteraz&utm_content=Fashture%20Street-wear%20MockUp&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=charlotteraz&utm_content=Fashture%20Street-wear%20MockUp&utm_medium=Social_Share",
+  },
+  {
+    id: 8,
+    image: Work8,
+    title: "Camera E-Commerce Design",
+    category: "Design",
+    action: "View",
+    source:
+      "https://dribbble.com/shots/20410744-Camcasp-Camera-E-Commerce-Design?utm_source=Clipboard_Shot&utm_campaign=charlotteraz&utm_content=Camcasp%20-%20Camera%20E-Commerce%20Design&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=charlotteraz&utm_content=Camcasp%20-%20Camera%20E-Commerce%20Design&utm_medium=Social_Share",
   },
   {
     id: 4,
