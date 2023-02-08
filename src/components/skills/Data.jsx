@@ -6,7 +6,7 @@ export const frontend = [
   },
   {
     id: 2,
-    title: "CSS",
+    title: "CSS/SaSS",
     percentage: "75%",
   },
   {
@@ -21,7 +21,7 @@ export const frontend = [
   },
   {
     id: 5,
-    title: "React",
+    title: "ReactJS",
     percentage: "55%",
   },
   {
@@ -53,28 +53,18 @@ export const backend = [
     percentage: "30%",
   },
   {
+    id: 6,
+    title: ".Net/C#",
+    percentage: "20%",
+  },
+  {
     id: 5,
-    title: "C",
+    title: "C/C++",
     percentage: "20%",
   },
 ];
 
 export const tools = [
-  {
-    id: 1,
-    title: "Figma",
-    percentage: "80%",
-  },
-  {
-    id: 2,
-    title: "Adobe XD",
-    percentage: "85%",
-  },
-  {
-    id: 3,
-    title: "Adobe Suite",
-    percentage: "70%",
-  },
   {
     id: 4,
     title: "Git/Github",
@@ -84,6 +74,21 @@ export const tools = [
     id: 5,
     title: "VS Code",
     percentage: "90%",
+  },
+  {
+    id: 1,
+    title: "Figma/Adobe XD",
+    percentage: "80%",
+  },
+  {
+    id: 2,
+    title: "Linux",
+    percentage: "30%",
+  },
+  {
+    id: 3,
+    title: "Adobe Creative Suite",
+    percentage: "70%",
   },
   {
     id: 6,
