@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css"
 import AboutImg from "../../assets/about.jpg"
-import CV from "../../assets/Raz_Resume.pdf"
+import CV from "../../assets/RazResume.pdf"
 
 const About = () => {
   return (
@@ -14,10 +14,12 @@ const About = () => {
 
         <div className="about__data">
           <p className="about__description">
-            I am a recent graduate who majored in Bachelor of Arts in Computer Science 
-            at The University of Alabama in Birmingham. I have a minor in Art Studio,
-            and I have a passion for every little thing surrounding technology and design,
-            from software engineering to UI/UX.
+            I am currently a Web Developer at GDIT, working as a designer and a developer
+            at the same time. I do UI/UX design and research, and I develop full-stack applications
+            with .Net framework and interested in working with React as a frontend framework as well.
+            <br /> <br />
+            A little bit about me in a nutshell is I have a passion for every little 
+            thing surrounding technology and design, from software engineering to UI/UX.
             <br /> <br />
             Outside of this deep and vast technological bubble, I am interested in film,
             photography, music, and graphic design.

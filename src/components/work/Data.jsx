@@ -6,8 +6,18 @@ import Work5 from "../../assets/work5.jpg";
 import Work6 from "../../assets/work6.jpg";
 import Work7 from "../../assets/work7.jpg";
 import Work8 from "../../assets/work8.jpg";
+import BookTree from "../../assets/BookTree.png";
 
 export const projectsData = [
+  {
+    id: 7,
+    image: BookTree,
+    title: "BookTree: UX Case Study",
+    category: "Design",
+    action: "Read UX Research",
+    source:
+      "https://dribbble.com/shots/24294510-BookTree-An-End-to-End-Mobile-App-Case-Study?utm_source=Clipboard_Shot&utm_campaign=charlotteraz&utm_content=BookTree%3A%20An%20End-to-End%20Mobile%20App%20Case%20Study&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=charlotteraz&utm_content=BookTree%3A%20An%20End-to-End%20Mobile%20App%20Case%20Study&utm_medium=Social_Share",
+  },
   {
     id: 1,
     image: Work1,

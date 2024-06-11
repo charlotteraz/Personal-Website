@@ -49,7 +49,7 @@ const Footer = () => {
           </a>
         </div>
         <span className="footer__copy">
-           &#169; 2023 Charlotte Raz. All rights reserved.
+           &#169; 2024 Charlotte Raz. All rights reserved.
         </span>
       </div>
     </footer>
