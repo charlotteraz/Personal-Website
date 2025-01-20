@@ -7,7 +7,7 @@ const Data = () => {
     <div className="home__data">
       <div className="home__titles">
         <h1 className="home__title">Charlotte Raz </h1>
-        <h3 className="home__subtitle">Web Developer</h3>
+        <h3 className="home__subtitle">UI/UX Engineer</h3>
       </div>
       
       <p className="home__description">

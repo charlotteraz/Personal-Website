@@ -14,9 +14,9 @@ const About = () => {
 
         <div className="about__data">
           <p className="about__description">
-            I am currently a Web Developer at GDIT, working as a designer and a developer
-            at the same time. I do UI/UX design and research, and I develop full-stack applications
-            with .Net framework and interested in working with React as a frontend framework as well.
+            I am currently a UI/UX Engineer at Dragonfly Health, working as a designer and a frontend engineer
+            at the same time. I do UI/UX design and enhancement, and I work with .Net web applications
+            and interested in working with React as a frontend framework as well.
             <br /> <br />
             A little bit about me in a nutshell is I have a passion for every little 
             thing surrounding technology and design, from software engineering to UI/UX.
